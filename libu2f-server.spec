@@ -6,7 +6,7 @@ Summary:	Yubico Universal 2nd Factor (U2F) Server C Library
 Summary(pl.UTF-8):	Biblioteka C serwera Universal 2nd Factor (U2F) Yubico
 Name:		libu2f-server
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 Source0:	https://developers.yubico.com/libu2f-server/Releases/%{name}-%{version}.tar.xz
